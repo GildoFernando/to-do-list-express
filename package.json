@@ -7,16 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gildo Fernando",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GildoFernando/Fazendo-repositorio-do-git-ao-pc.git"
-  },
-  "bugs": {
-    "url": "https://github.com/GildoFernando/Fazendo-repositorio-do-git-ao-pc/issues"
-  },
-  "homepage": "https://github.com/GildoFernando/Fazendo-repositorio-do-git-ao-pc#readme",
-  "dependencies": {
-    "express": "^4.19.2"
-  }
+  "license": "ISC"
 }
